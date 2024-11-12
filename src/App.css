@@ -70,7 +70,7 @@ body{
 
 }
 
-/* .header .menu-btn{
+.header .menu-btn{
   height: 2.5rem;
   width: 3rem;
   border-radius: 20px;
@@ -78,11 +78,11 @@ body{
   border: none;
   cursor: pointer;
   margin: 0 2rem;
-} */
+} 
 
-/* .header .menu-btn:hover{
+ .header .menu-btn:hover{
   background: rgba(0, 0, 0, 0.1);
-} */
+}
 
 .content{
   display: flex;

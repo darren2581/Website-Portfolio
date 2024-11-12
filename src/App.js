@@ -15,16 +15,13 @@ function App() {
             <li className='nav-item'><a href="#">Skills</a></li>
             <li className='nav-item'><a href="#">Project</a></li>
             <li className='nav-item'><a href="#">Contact</a></li>
-            <li className='menu'>
-              <span class="material-symbols-outlined">menu</span>
-            </li>
           </ul>
         </div>
-        {/* <div className='menu'>
+        <div className='menu'>
           <button className='menu-btn'>
             <span class="material-symbols-outlined">menu</span>
           </button>
-        </div> */}
+        </div>
       </div>
       <div className="content">
         <div className='main-photo'>
